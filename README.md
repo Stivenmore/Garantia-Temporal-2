@@ -1,6 +1,6 @@
-# flutter_y_sqflite
+# Flutter, SQFlite, Cubit, Patron BloC y mas
 
-A new Flutter project.
+Este repositorio cuenta con la prueba tecnica desarrollada de forma Offline con SQFline (Alternativa a SharePreferentes, entre otras).
 
 ## Getting Started
 
